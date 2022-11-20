@@ -1,0 +1,19 @@
+    1  sudo apt install npm
+    6  npm create vite@latest
+    7  node
+    8  node --v
+    9  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+   11  sudo apt-get install -y nodejs
+   12  curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&sudo apt-get install -y nodejs
+   15  sudo apt  install curl
+   16  npm -i -D eslint
+   17  npm install -D eslint
+   18  npx eslint --init
+   19  npx install-peerdeps --dev eslint-config-airbnb
+   20  npm install -D eslint-config-airbnb-typescript
+   21  npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+   22  npm install -D @testing-library/react
+   23  npm install -D @testing-library/jest-dom
+   24  npm install react-router-dom localforage match-sorter sort-by
+   27  npm test
+   28  
